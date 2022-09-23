@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Mininet**
 
-- 🌱 I’m currently learning **Python, JavaScript, C**
+- 🌱 I’m currently learning **Python, JavaScript, C/C++**
 
 - 💬 Ask me about **Back-End, Cloud Computing, Cybersecurity**
 
