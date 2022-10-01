@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript, Kotlin**
 
-- 💬 Ask me about **Back-End, Cloud Computing, Cybersecurity**
+- 💬 Ask me about **DevOps, Cloud Computing, Cybersecurity**
 
 - 📫 How to reach me **muhghazyayman@gmail.com**
 
