@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **SDN**
 
-- 🌱 I’m currently learning **Python, JavaScript, BASH**
+- 🌱 I’m currently learning **Python, JavaScript, Bash/Shell**
 
 - 💬 Ask me about **DevOps, Cloud Computing, Cybersecurity**
 
