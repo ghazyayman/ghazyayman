@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript, Bash/Shell**
 
-- 💬 Ask me about **DevOps, Cloud Computing, Cybersecurity**
+- 💬 Ask me about **DevOps, CTF, Bug Bounty**
 
 - 📫 How to reach me **muhghazyayman@gmail.com**
 
