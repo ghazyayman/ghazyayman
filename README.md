@@ -29,7 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghazyayman&show_icons=true&locale=en" alt="ghazyayman" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ghazyayman)](https://git.io/streak-stats)
-
 
 
